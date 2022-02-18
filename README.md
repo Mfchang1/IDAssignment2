@@ -71,7 +71,7 @@ Further Plans
   - The project uses **Material UI Library** to add icons
 - [React Library](https://reactjs.org/)
   - The project uses **React Library** to build the user interface for this project
-- [Netlify]
+- [Netlify](https://www.netlify.com/)
   - The project uses **Netlify** to muliply productivity and host the website application
 
 ## Testing
